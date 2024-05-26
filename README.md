@@ -1,6 +1,6 @@
 # Desktop Image Organizer
 
-### Using OpenAI's Clip model and K Means cluster algorithm to embed and sort images from Desktop into folders that are appropriately labelled using Blip image to text model and Natural Language Toolkit
+#### Using OpenAI's Clip model and K Means cluster algorithm to embed and sort images from Desktop into folders that are appropriately labelled using Blip image to text model and Natural Language Toolkit
 
 ## Before: 
 
