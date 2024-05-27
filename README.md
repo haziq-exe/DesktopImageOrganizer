@@ -4,15 +4,16 @@
 
 <ins> 
 
-  ### Before:
+### Before:
 
-<img width="1423" alt="Screenshot 2024-05-26 at 9 39 27 PM" src="https://github.com/haziq-exe/AI-Desktop-Image-Organizer/assets/134634529/bd29c04a-74a7-4664-8a54-c72ccb21137c">
+<img width="1440" alt="Screenshot 2024-05-27 at 7 02 57 PM" src="https://github.com/haziq-exe/DesktopImageOrganizer/assets/134634529/eb5b4cc9-f0ea-4c54-a524-008721547b53">
 
 
 ### After: 
 
 
-<img width="1434" alt="Screenshot 2024-05-26 at 9 55 45 PM" src="https://github.com/haziq-exe/AI-Desktop-Image-Organizer/assets/134634529/5bb0057c-a2bc-44c3-8a38-2a1b991fae05">
+<img width="1432" alt="Screenshot 2024-05-27 at 6 59 07 PM" src="https://github.com/haziq-exe/DesktopImageOrganizer/assets/134634529/6eb4a376-c07d-4cdd-979b-7b1fc7d49203">
+
 
 
 #### Language: Jupyter Notebook
